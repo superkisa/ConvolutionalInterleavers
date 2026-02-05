@@ -1,0 +1,10 @@
+name = "ConvolutionalInterleavers"
+uuid = "8a7a5a1b-8734-4438-8d75-4fb0ac7ac83e"
+version = "0.1.0"
+authors = ["superkisa <81680387+superkisa@users.noreply.github.com>"]
+
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+
+[compat]
+DataStructures = "0.19.3"

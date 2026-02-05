@@ -1,0 +1,22 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.4"
+manifest_format = "2.0"
+project_hash = "c61b5237844aa07805a31939ec3e28d17179de60"
+
+[[deps.ConvolutionalInterleavers]]
+deps = ["DataStructures"]
+path = "."
+uuid = "8a7a5a1b-8734-4438-8d75-4fb0ac7ac83e"
+version = "0.1.0"
+
+[[deps.DataStructures]]
+deps = ["OrderedCollections"]
+git-tree-sha1 = "e357641bb3e0638d353c4b29ea0e40ea644066a6"
+uuid = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+version = "0.19.3"
+
+[[deps.OrderedCollections]]
+git-tree-sha1 = "05868e21324cede2207c6f0f466b4bfef6d5e7ee"
+uuid = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
+version = "1.8.1"
